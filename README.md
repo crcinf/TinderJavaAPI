@@ -73,3 +73,10 @@ Usage:
   </tbody>
 </table>
 
+### Sample Usage
+```
+TinderAPI tinder = new TinderAPI(args[0], args[1]);
+tinder.login();
+tinder.updateProfile(99, 0, 19, 55, 1, "Hi!",true);
+tinder.updateLocation(Double.parseDouble(args[2]), Double.parseDouble(args[3]));
+```
