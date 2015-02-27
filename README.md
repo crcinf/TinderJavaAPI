@@ -17,6 +17,7 @@ Usage:
 6. Feel free to create your own refactored api.
 
 7. Watch it in action [TinderJavAPI](https://www.youtube.com/watch?v=Iy6QRbOaDKA&list=UUIzA1E4_dZojyOzzjT2LhSQ).
+8. Don't forget to add the dependencies (commons-logging-1.2.jar,gson-2.3.1.jar,httpclient-4.4.jar,httpcore-4.4.jar)
 
 <table>
   <thead>
