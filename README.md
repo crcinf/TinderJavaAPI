@@ -4,7 +4,7 @@ This is a hobby project that I created.
 
 Usage:
 
-1. Run java -jar Tinder.jar FACEBOOK_ACCESS_TOKEN FACEBOOK_USER_NAME lat lng
+1. Run java -jar Tinder.jar FACEBOOK_ACCESS_TOKEN FACEBOOK_USER_NAME lat lng or add the jar file to your project and call the methods.
 
 2. Enter your facebook access token and facebook user name.
 
@@ -14,7 +14,7 @@ Usage:
 
 5. Then do whatever you want (Dont change your location so quick!!!!).
 
-6. Feel free to edit, refactor the code.
+6. Feel free to create your own refactored api.
 
 7. Watch it in action [TinderJavAPI](https://www.youtube.com/watch?v=Iy6QRbOaDKA&list=UUIzA1E4_dZojyOzzjT2LhSQ).
 
