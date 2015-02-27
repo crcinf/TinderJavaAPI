@@ -12,7 +12,7 @@ Usage:
 
 4. To get the facebook user name, click on your profile right next to the home page and copy the part after https://www.facebook.com/ . For example myt url is https://www.facebook.com/asim.sinan and I need to copy asim.sinan
 
-5. Then do whatever you want (Dont change your location so quick!!!!).
+5. Then do whatever you want (Don't change your location quickly!!!!).
 
 6. Feel free to create your own refactored api.
 
